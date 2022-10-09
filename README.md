@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Linear Regression-
 
 Using the attached dataset to develop, train, and evaluate a group of linear regression models to predict the price (dependent variable) of a Monet painting 
 from a few of its features (independent variables). Create your model in Python.
